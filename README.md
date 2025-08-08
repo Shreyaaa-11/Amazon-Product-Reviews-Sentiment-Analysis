@@ -3,7 +3,7 @@ This project focuses on analyzing Amazon product reviews and classifying them in
 It includes data preprocessing with NLTK, sequence handling with TensorFlow/Keras, and model performance visualization.
 
 
-📌 Project Overview
+## Project Overview
 Goal: Predict the sentiment (positive/negative) of an Amazon product review.
 
 Approach:
@@ -18,7 +18,7 @@ Train an RNN-based model (LSTM) for classification.
 
 Evaluate and visualize results.
 
-🛠 Tech Stack
+## Tech Stack
 Programming Language: Python
 
 Libraries Used:
